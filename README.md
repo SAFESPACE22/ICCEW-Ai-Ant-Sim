@@ -8,12 +8,19 @@ NEAT-Python
 ## Installation
 Clone or download this repository to your local machine.
 Install the required Python packages using pip:
+```
+pip install pygame
+pip install neat-python
+```
 bash
 Copy code
 pip install pygame
 pip install neat-python
 ## Usage
 Run the simulation script:
+```
+python ant_simulation.py
+```
 bash
 Copy code
 python ant_simulation.py
